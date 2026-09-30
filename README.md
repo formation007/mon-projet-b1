@@ -1,4 +1,12 @@
 # mon-projet-b1
+Projet portfolio pour le cours Git & Collaboration
+
+Auteur : Melvin (le gars qui a du mal avec son pc...)
+
+
+
+
+---
 ## titre niveau 2
 ### titre niveau 3 
 
